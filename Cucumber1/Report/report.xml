@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0" tests="6" time="236.486396">
+    <testcase classname="To Validate food ordering process of bisto bites web application" name="To validate login functionality by using  invalid username and password in bisto bites web application" time="23.822589">
+        <system-out><![CDATA[Given To launch the browser.................................................passed
+When To launch URL of bisto bites Web application...........................passed
+And To click the account button.............................................passed
+And To pass data to phone text field........................................passed
+And To pass data to password text field.....................................passed
+And To click login button...................................................passed
+Then To close the browser...................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate food ordering process of bisto bites web application" name="To validate add the dosa in food list and checking te available time" time="32.912486">
+        <system-out><![CDATA[Given To launch the browser.................................................passed
+When To launch URL of bisto bites Web application...........................passed
+And To click the Dosa dropdown..............................................passed
+And To Click the Masal Dosa option..........................................passed
+And To check available Time.................................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate food ordering process of bisto bites web application" name="To validate the signup functionality by giving invalid confirm password" time="34.182652">
+        <system-out><![CDATA[Given To launch the browser.................................................passed
+When To launch URL of bisto bites Web application...........................passed
+And To click the account button.............................................passed
+And To Pass different data  to confirm password text field..................passed
+And To click the register button............................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate food ordering process of bisto bites web application" name="To validate the search function and checking the price" time="60.329046">
+        <system-out><![CDATA[Given To launch the browser.................................................passed
+When To launch URL of bisto bites Web application...........................passed
+And To pass data coke to search text field..................................passed
+And To click the search button..............................................passed
+And To print the price of the coke can......................................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate food ordering process of bisto bites web application" name="To validate probability functionality of food item Spanish omelet" time="47.198472">
+        <system-out><![CDATA[Given To launch the browser.................................................passed
+When To launch URL of bisto bites Web application...........................passed
+And To pass data spanish omelet to search text field........................passed
+And To click the search button..............................................passed
+And To click the food item spanish omelet...................................passed
+And To click all the extra toppings and checks the price....................passed
+]]></system-out>
+    </testcase>
+    <testcase classname="To Validate food ordering process of bisto bites web application" name="To validate spelling check for our story text" time="38.041151">
+        <system-out><![CDATA[Given To launch the browser.................................................passed
+When To launch URL of bisto bites Web application...........................passed
+And To click the our story tag on the home page.............................passed
+And To Print the text from our story........................................passed
+Then To close the browser...................................................passed
+]]></system-out>
+    </testcase>
+</testsuite>

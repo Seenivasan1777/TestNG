@@ -1,0 +1,499 @@
+[
+  {
+    "line": 2,
+    "elements": [
+      {
+        "line": 6,
+        "name": "To validate login functionality by using  invalid username and password in bisto bites web application",
+        "description": "",
+        "id": "to-validate-food-ordering-process-of-bisto-bites-web-application;to-validate-login-functionality-by-using--invalid-username-and-password-in-bisto-bites-web-application",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 3411174600,
+              "status": "passed"
+            },
+            "line": 7,
+            "name": "To launch the browser",
+            "match": {
+              "location": "automation.to_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 15985761000,
+              "status": "passed"
+            },
+            "line": 8,
+            "name": "To launch URL of bisto bites Web application",
+            "match": {
+              "location": "automation.to_launch_URL_of_bisto_bites_Web_application()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2754857500,
+              "status": "passed"
+            },
+            "line": 9,
+            "name": "To click the account button",
+            "match": {
+              "location": "automation.to_click_the_account_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 79229900,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "To pass data to phone text field",
+            "match": {
+              "location": "automation.to_pass_data_to_phone_text_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 79050700,
+              "status": "passed"
+            },
+            "line": 11,
+            "name": "To pass data to password text field",
+            "match": {
+              "location": "automation.to_pass_data_to_password_text_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1509126600,
+              "status": "passed"
+            },
+            "line": 12,
+            "name": "To click login button",
+            "match": {
+              "location": "automation.to_click_login_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 34800,
+              "status": "passed"
+            },
+            "line": 13,
+            "name": "To close the browser",
+            "match": {
+              "location": "automation.to_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag1"
+          }
+        ]
+      },
+      {
+        "line": 16,
+        "name": "To validate add the dosa in food list and checking te available time",
+        "description": "",
+        "id": "to-validate-food-ordering-process-of-bisto-bites-web-application;to-validate-add-the-dosa-in-food-list-and-checking-te-available-time",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 988969500,
+              "status": "passed"
+            },
+            "line": 17,
+            "name": "To launch the browser",
+            "match": {
+              "location": "automation.to_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 23224885800,
+              "status": "passed"
+            },
+            "line": 18,
+            "name": "To launch URL of bisto bites Web application",
+            "match": {
+              "location": "automation.to_launch_URL_of_bisto_bites_Web_application()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 7392049400,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "To click the Dosa dropdown",
+            "match": {
+              "location": "automation.to_click_the_Dosa_dropdown()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1277602200,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "To Click the Masal Dosa option",
+            "match": {
+              "location": "automation.to_Click_the_Masal_Dosa_option()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 28594900,
+              "status": "passed"
+            },
+            "line": 21,
+            "name": "To check available Time",
+            "match": {
+              "location": "automation.to_check_available_Time()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag2"
+          }
+        ]
+      },
+      {
+        "line": 25,
+        "name": "To validate the signup functionality by giving invalid confirm password",
+        "description": "",
+        "id": "to-validate-food-ordering-process-of-bisto-bites-web-application;to-validate-the-signup-functionality-by-giving-invalid-confirm-password",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1594384600,
+              "status": "passed"
+            },
+            "line": 26,
+            "name": "To launch the browser",
+            "match": {
+              "location": "automation.to_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 27045609600,
+              "status": "passed"
+            },
+            "line": 27,
+            "name": "To launch URL of bisto bites Web application",
+            "match": {
+              "location": "automation.to_launch_URL_of_bisto_bites_Web_application()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2517094600,
+              "status": "passed"
+            },
+            "line": 28,
+            "name": "To click the account button",
+            "match": {
+              "location": "automation.to_click_the_account_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1652257200,
+              "status": "passed"
+            },
+            "line": 29,
+            "name": "To Pass different data  to confirm password text field",
+            "match": {
+              "location": "automation.to_Pass_different_data_to_confirm_password_text_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 1372995200,
+              "status": "passed"
+            },
+            "line": 30,
+            "name": "To click the register button",
+            "match": {
+              "location": "automation.to_click_the_register_button()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag3"
+          }
+        ]
+      },
+      {
+        "line": 34,
+        "name": "To validate the search function and checking the price",
+        "description": "",
+        "id": "to-validate-food-ordering-process-of-bisto-bites-web-application;to-validate-the-search-function-and-checking-the-price",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1162303500,
+              "status": "passed"
+            },
+            "line": 35,
+            "name": "To launch the browser",
+            "match": {
+              "location": "automation.to_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 54342324800,
+              "status": "passed"
+            },
+            "line": 36,
+            "name": "To launch URL of bisto bites Web application",
+            "match": {
+              "location": "automation.to_launch_URL_of_bisto_bites_Web_application()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 151295900,
+              "status": "passed"
+            },
+            "line": 37,
+            "name": "To pass data coke to search text field",
+            "match": {
+              "location": "automation.to_pass_data_coke_to_search_text_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 628016200,
+              "status": "passed"
+            },
+            "line": 38,
+            "name": "To click the search button",
+            "match": {
+              "location": "automation.to_click_the_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 4044812500,
+              "status": "passed"
+            },
+            "line": 39,
+            "name": "To print the price of the coke can",
+            "match": {
+              "location": "automation.to_print_the_price_of_the_coke_can()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag4"
+          }
+        ]
+      },
+      {
+        "line": 43,
+        "name": "To validate probability functionality of food item Spanish omelet",
+        "description": "",
+        "id": "to-validate-food-ordering-process-of-bisto-bites-web-application;to-validate-probability-functionality-of-food-item-spanish-omelet",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 1247691600,
+              "status": "passed"
+            },
+            "line": 44,
+            "name": "To launch the browser",
+            "match": {
+              "location": "automation.to_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 38435457900,
+              "status": "passed"
+            },
+            "line": 45,
+            "name": "To launch URL of bisto bites Web application",
+            "match": {
+              "location": "automation.to_launch_URL_of_bisto_bites_Web_application()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 153237200,
+              "status": "passed"
+            },
+            "line": 46,
+            "name": "To pass data spanish omelet to search text field",
+            "match": {
+              "location": "automation.to_pass_data_spanish_omelet_to_search_text_field()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 163500,
+              "status": "passed"
+            },
+            "line": 47,
+            "name": "To click the search button",
+            "match": {
+              "location": "automation.to_click_the_search_button()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 6820579500,
+              "status": "passed"
+            },
+            "line": 48,
+            "name": "To click the food item spanish omelet",
+            "match": {
+              "location": "automation.to_click_the_food_item_spanish_omelet()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 541025100,
+              "status": "passed"
+            },
+            "line": 49,
+            "name": "To click all the extra toppings and checks the price",
+            "match": {
+              "location": "automation.to_click_all_the_extra_toppings_and_checks_the_price()"
+            },
+            "keyword": "And "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag5"
+          }
+        ]
+      },
+      {
+        "line": 53,
+        "name": "To validate spelling check for our story text",
+        "description": "",
+        "id": "to-validate-food-ordering-process-of-bisto-bites-web-application;to-validate-spelling-check-for-our-story-text",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 2267027600,
+              "status": "passed"
+            },
+            "line": 54,
+            "name": "To launch the browser",
+            "match": {
+              "location": "automation.to_launch_the_browser()"
+            },
+            "keyword": "Given "
+          },
+          {
+            "result": {
+              "duration": 33441766900,
+              "status": "passed"
+            },
+            "line": 55,
+            "name": "To launch URL of bisto bites Web application",
+            "match": {
+              "location": "automation.to_launch_URL_of_bisto_bites_Web_application()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 2294745700,
+              "status": "passed"
+            },
+            "line": 56,
+            "name": "To click the our story tag on the home page",
+            "match": {
+              "location": "automation.to_click_the_our_story_tag_on_the_home_page()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 37367900,
+              "status": "passed"
+            },
+            "line": 57,
+            "name": "To Print the text from our story",
+            "match": {
+              "location": "automation.to_Print_the_text_from_our_story()"
+            },
+            "keyword": "And "
+          },
+          {
+            "result": {
+              "duration": 40400,
+              "status": "passed"
+            },
+            "line": 58,
+            "name": "To close the browser",
+            "match": {
+              "location": "automation.to_close_the_browser()"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@tag6"
+          }
+        ]
+      }
+    ],
+    "name": "To Validate food ordering process of bisto bites web application",
+    "description": "",
+    "id": "to-validate-food-ordering-process-of-bisto-bites-web-application",
+    "keyword": "Feature",
+    "uri": "src/test/resources/automation.feature",
+    "tags": []
+  }
+]
